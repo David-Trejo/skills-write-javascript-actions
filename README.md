@@ -8,7 +8,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Write JavaScript Actionss
+# Write JavaScript Actionsss
 
 _Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow._
 
